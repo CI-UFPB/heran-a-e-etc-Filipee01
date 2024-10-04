@@ -31,10 +31,6 @@ Este projeto implementa um Sistema de Gerenciamento de Campeonato de Futebol uti
   - `jogo`: Representa um jogo de futebol.
   - `campeonato`: Representa um campeonato de futebol.
 
-## Diagrama UML
-
-![Diagrama UML](uml_diagram.png)
-
 ## Como Compilar e Executar
 
 ### Pré-requisitos
